@@ -1,0 +1,18 @@
+.App {
+  text-align: center;
+}
+.App {
+  text-align: center;
+  background-color: rgb(240, 234, 240);
+}
+
+.increment-btn {
+background-color: green;
+}
+.decrement-btn{
+  background-color: blue;
+
+}
+.Reset-btn{
+  background-color:red;
+}
